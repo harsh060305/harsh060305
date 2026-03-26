@@ -1,121 +1,21 @@
+# 💫 About Me:
+👋 Hi, I'm Harsh Maurya<br>🎓 Final Year Computer Science Student 💻 Aspiring Java Full Stack Developer 🚀 Passionate about building scalable web applications<br><br>🧑‍💻 About Me<br>I am a dedicated Computer Science student with a strong focus on Java-based web development. I enjoy building real-world applications that solve practical problems and improve user experience. Currently, I am enhancing my skills in full-stack development and backend technologies while continuously working on improving my problem-solving and communication skills.<br><br>🎯 Career Objective<br>To secure a Software Developer role in a reputed organization where I can apply my technical skills, contribute to impactful projects, and grow into a leadership position.<br><br>🛠️ Technical Skills<br>💻 Languages: Java, Python<br>🌐 Frontend: HTML5, CSS3, JavaScript<br>⚙️ Backend: Java Servlets, JSP<br>🗄️ Database: MySQL<br>🔧 Tools: Git, GitHub, Eclipse, Apache Tomcat<br>🚀 Projects<br>🔹 Railway Management System<br>Developed a train booking and scheduling platform with both user and admin modules<br>Implemented booking system, scheduling logic, and database management<br>Managed 5+ relational database tables<br>Tech Stack: Java, Servlets, MySQL, Tomcat<br>🔹 User Management Web Application<br>Built a secure authentication system with user registration and login<br>Designed a dedicated admin dashboard for monitoring and control<br>Implemented database-driven authentication system<br>Tech Stack: Java, JSP, Servlets, MySQL<br>🔹 College Visitor Website<br>Created a dynamic multi-page website for exploring colleges<br>Implemented search functionality and responsive UI<br>Designed 6+ interactive pages with smooth navigation<br>Tech Stack: HTML, CSS, JavaScript<br>📚 Currently Learning<br>Spring Framework & Spring Boot<br>Hibernate (ORM)<br>Advanced Backend Development<br>🏆 Strengths<br>✔ Honest and hardworking<br>✔ Quick learner<br>✔ Strong problem-solving mindset<br>🎯 Goals<br>🔹 Short-Term: Get placed as a Software Developer<br>🔹 Long-Term: Become a skilled developer and grow into a leadership role<br>⚡ Interests<br>🏏 Playing Cricket<br>🎬 Watching Movies<br>📖 Learning New Technologies<br>📫 Connect With Me<br>📧 Email: harsh060305@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/harsh635/<br>⭐ “Always learning, always building real-world applications.”
 
 
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Harsh Maurya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh060305@gmail.com) 
 
-# 👋 Hi, I'm Harsh Maurya
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harsh060305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harsh060305&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh060305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎓 Final Year Computer Science Student
-💻 Aspiring Java Full Stack Developer
-🚀 Passionate about building scalable web applications
-
----
-
-## 🧑‍💻 About Me
-
-I am a dedicated Computer Science student with a strong focus on Java-based web development. I enjoy building real-world applications that solve practical problems and improve user experience. Currently, I am enhancing my skills in full-stack development and backend technologies while continuously working on improving my problem-solving and communication skills.
-
----
-
-## 🎯 Career Objective
-
-To secure a Software Developer role in a reputed organization where I can apply my technical skills, contribute to impactful projects, and grow into a leadership position.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=harsh060305&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Skills
-
-* 💻 Languages: Java, Python
-* 🌐 Frontend: HTML5, CSS3, JavaScript
-* ⚙️ Backend: Java Servlets, JSP
-* 🗄️ Database: MySQL
-* 🔧 Tools: Git, GitHub, Eclipse, Apache Tomcat
-
----
-
-## 🚀 Projects
-
-### 🔹 Railway Management System
-
-* Developed a train booking and scheduling platform with both **user and admin modules**
-* Implemented booking system, scheduling logic, and database management
-* Managed **5+ relational database tables**
-* **Tech Stack:** Java, Servlets, MySQL, Tomcat
-
-
-
----
-
-### 🔹 User Management Web Application
-
-* Built a secure authentication system with **user registration and login**
-* Designed a dedicated **admin dashboard for monitoring and control**
-* Implemented **database-driven authentication system**
-* **Tech Stack:** Java, JSP, Servlets, MySQL
-
-
----
-
-### 🔹 College Visitor Website
-
-* Created a dynamic multi-page website for exploring colleges
-* Implemented **search functionality and responsive UI**
-* Designed **6+ interactive pages with smooth navigation**
-* **Tech Stack:** HTML, CSS, JavaScript
-
-
-
----
-
-## 📚 Currently Learning
-
-* Spring Framework & Spring Boot
-* Hibernate (ORM)
-* Advanced Backend Development
-
----
-
-## 🏆 Strengths
-
-* ✔ Honest and hardworking
-* ✔ Quick learner
-* ✔ Strong problem-solving mindset
-
----
-
-## 🎯 Goals
-
-* 🔹 Short-Term: Get placed as a Software Developer
-* 🔹 Long-Term: Become a skilled developer and grow into a leadership role
-
----
-
-## ⚡ Interests
-
-* 🏏 Playing Cricket
-* 🎬 Watching Movies
-* 📖 Learning New Technologies
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: harsh060305@gmail.com
-* 🔗 LinkedIn: https://www.linkedin.com/in/harsh635/
-
----
-
-⭐ *“Always learning, always building real-world applications.”*
-
-<!--
-**harsh060305/harsh060305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
